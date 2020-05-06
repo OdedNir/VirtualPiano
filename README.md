@@ -8,4 +8,4 @@ HTML, JS, CSS.
 * Playing using the keyboard keys.
 
 
-![Piano image](https://imgs.classicfm.com/images/7443?crop=16_9&width=660&relax=1&signature=HVSXLcygEjrXlIeT5n_uUMEKMX4=)
+![Piano image](Piano.png)
