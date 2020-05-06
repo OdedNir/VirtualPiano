@@ -46,3 +46,4 @@ let blackKeys = ['W', 'E', 'T', 'Y', 'U'];
 let audioSrcBlack = ["./W.mp3", "./E.mp3", "./T.mp3", "./Y.mp3", "./U.mp3"];
 keyPress(blackKeys, audioSrcBlack);
 mousePress(audioSrcWhite.concat(audioSrcBlack));
+touchPress(audioSrcWhite.concat(audioSrcBlack));
