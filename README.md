@@ -4,4 +4,4 @@ Virtual Piano created by Oded Nir.
 
 HTML, JS, CSS.
 
-[Virtual Piano](https://odednir.github.io/VirtualPiano/)
+[Virtual Piano - Click me!](https://odednir.github.io/VirtualPiano/)
