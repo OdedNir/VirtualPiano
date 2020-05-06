@@ -39,11 +39,11 @@ function touchPress(audioSrc) {
 }
 
 let whiteKeys = ['A', 'S', 'D', 'F', 'G', 'H', 'J'];
-let audioSrcWhite = ["./A.mp3", "./S.mp3", "./D.mp3", "./F.mp3", "./G.mp3", "./H.mp3", "./J.mp3"];
+let audioSrcWhite = ["./Sounds/A.mp3", "./Sounds/S.mp3", "./Sounds/D.mp3", "./Sounds/F.mp3", "./Sounds/G.mp3", "./Sounds/H.mp3", "./Sounds/J.mp3"];
 keyPress(whiteKeys, audioSrcWhite);
 
 let blackKeys = ['W', 'E', 'T', 'Y', 'U'];
-let audioSrcBlack = ["./W.mp3", "./E.mp3", "./T.mp3", "./Y.mp3", "./U.mp3"];
+let audioSrcBlack = ["./Sounds/W.mp3", "./Sounds/E.mp3", "./Sounds/T.mp3", "./Sounds/Y.mp3", "./Sounds/U.mp3"];
 keyPress(blackKeys, audioSrcBlack);
 mousePress(audioSrcWhite.concat(audioSrcBlack));
 touchPress(audioSrcWhite.concat(audioSrcBlack));
