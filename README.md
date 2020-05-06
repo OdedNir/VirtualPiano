@@ -9,7 +9,7 @@ HTML, JS, CSS.
 Playing using:
 * Keyboard keys
 * Mouse clicks
-* Touch (for touch screens only)
+* Touch (for touch screen devices only)
 
 
 ![Piano image](Piano.png)
