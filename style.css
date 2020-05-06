@@ -7,6 +7,7 @@ body {
     width: fit-content;
     margin: 20% auto;
     text-align: center;
+    user-select: none;
 }
 .white-keys kbd {
     font-family: 'Roboto', sans-serif;
