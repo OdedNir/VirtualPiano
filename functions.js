@@ -7,7 +7,10 @@ const getKeysMap = (keys) => {
 const eventHandler = (ev, getPressedElementId) => {
     const pressedElementId = getPressedElementId(ev);
     const audioSrc = keysMap[pressedElementId];
-    if (audioSrc) audioSrc.play();
+    if (audioSrc) {
+        audioSrc.currentTime = 0;
+        audioSrc.play();
+    }
 }
 
 const keys = ["a","s","d","f","g","h","j","w","e","t","y","u"];
