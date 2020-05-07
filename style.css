@@ -3,6 +3,19 @@
 body {
     background-color: rgb(53, 65, 196);
 }
+#header {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 150px;
+    font-size: 50px;
+    color: white;
+}
+#speaker {
+    height: 55px;
+    width: 55px;
+    vertical-align: middle;
+}
 .container {
     width: fit-content;
     margin: 20% auto;
