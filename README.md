@@ -12,4 +12,4 @@ Playing using:
 * Touch (for touch screen devices only)
 
 
-![Piano image](Piano.png)
+![Piano image](Sample.png)
