@@ -2,7 +2,7 @@
 
 Virtual Piano created by Oded Nir.
 
-HTML, JS, CSS.
+HTML, JavaScript, CSS.
 
 [Virtual Piano - Click me!](https://odednir.github.io/VirtualPiano/)
 
